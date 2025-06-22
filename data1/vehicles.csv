@@ -1,0 +1,9 @@
+﻿vehicle_id,capacity,cooler,type
+VH-001,300,False,car
+VH-002,300,True,truck
+VH-003,500,False,car
+VH-004,500,True,car
+VH-005,1000,True,truck
+VH-006,1000,False,truck
+VH-007,500,True,minivan
+VH-008,300,True,minivan

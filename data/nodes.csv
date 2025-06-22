@@ -1,0 +1,21 @@
+id,lat,lon,address,type,name,priority
+0,51.5074,-0.1278,"Main Distribution Center, 592 Alison locks",depot,,
+6,51.58315882924438,-0.1824634399791982,70 Williams place,client,Conway PLC,vip
+7,51.50830488773986,-0.4958127039255694,"Flat 79F
+Helen drive",client,Frost-Jones,vip
+8,51.16242575436402,0.0286377604236783,1 Dylan path,client,"Hudson, Brown and O'Brien",vip
+9,51.67943300285772,-0.053606395406661,86 Mitchell lights,client,Lewis-Lewis,standard
+10,51.94911761018361,-0.2598149716166958,9 Crawford green,client,Pearson Group,standard
+11,51.6950643477072,-0.1767148178857925,09 Patrick bypass,client,Griffiths-Smith,vip
+12,51.73585691628457,-0.2352693525644776,16 Adrian causeway,client,Williams Inc,standard
+13,51.45146902968684,0.1257953417481974,"Studio 83J
+Heath tunnel",client,Powell Group,standard
+14,50.99180335091794,-0.2551706782970885,756 Morris mountain,client,"Davies, Evans and Green",standard
+15,51.3086651426919,-0.0401276545455849,7 Ellie heights,client,Ellis-Richardson,vip
+16,51.92986913764548,0.0326736525741933,8 Amy center,client,Murray Ltd,vip
+17,51.53236263091674,0.023370070250884,900 Jodie run,client,"Morgan, Parsons and Lewis",standard
+18,51.127629244721,-0.0420397789306432,"Studio 37
+Bradley centers",client,Webster PLC,vip
+19,51.73076244693468,-0.022164208515445,"Flat 54
+Ellis course",client,Buckley-White,vip
+20,51.4263374654521,-0.4237052125404597,91 Gary brooks,client,James Group,vip

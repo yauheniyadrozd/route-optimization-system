@@ -1,0 +1,29 @@
+id,lat,lon,address,type,name,priority
+0,51.5074,-0.1278,"Main Distribution Center, 234 Graeme falls",depot,,
+2,51.28683831246753,0.3553299696289794,021 Hugh mission,client,Gardner Inc,vip
+3,51.779263187612734,-0.0374853979913571,"Studio 3
+Paige street",client,"Tomlinson, Cook and Collins",standard
+4,51.50289934575871,0.3606587228453544,7 Simpson crescent,client,Turner and Sons,vip
+5,51.53570585661769,-0.6263305486918069,"Studio 61
+Nicholson rapids",client,Graham and Sons,vip
+6,51.77472232971056,-0.1428638790507753,48 Williamson walks,client,Bell Ltd,standard
+7,51.64161109332274,-0.2478485458463096,"Flat 82q
+Parker stravenue",client,Forster LLC,standard
+8,51.38321804392667,-0.0709916019126054,95 Liam bridge,client,Roberts-Richards,standard
+9,51.91083931382644,-0.2535807053338815,"Studio 5
+Nathan manors",client,Green LLC,vip
+10,51.16959967891927,-0.1157297104499506,28 Louis drive,client,Charlton PLC,standard
+11,51.682349002052845,-0.1730999475993301,35 Welch vista,client,Goddard-Hughes,vip
+12,51.83317495892021,0.0640164965721837,"Flat 95q
+Clements roads",client,Kaur LLC,vip
+13,51.49351730133093,-0.1470102477178248,641 Marc plains,client,"Oliver, Butler and Simpson",vip
+14,51.48325222686131,0.4447765635675975,08 Shirley route,client,Hewitt-Wright,standard
+15,51.729009686619136,-0.2344228537492729,31 Donna tunnel,client,"Turner, Austin and Davies",vip
+16,51.732022244081726,-0.0400200000300959,"Flat 03K
+Wells route",client,"Fletcher, Wright and Wallace",vip
+17,51.3920813621188,-0.0274140147240884,57 Josephine greens,client,Harding Inc,standard
+18,51.55730631565029,-0.0435382064478403,36 Birch squares,client,Ali Ltd,standard
+19,51.31527715434389,-0.1590090727081425,"Studio 01Y
+Newton river",client,Woodward-Brown,standard
+20,50.86828998074914,-0.5233956238377331,"Studio 5
+Chelsea stravenue",client,"Williams, Edwards and Francis",vip

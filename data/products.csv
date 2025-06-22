@@ -1,0 +1,51 @@
+﻿product_id,name,weight,category,size
+PROD-001,Minerals,0.57,Amino Acids,L
+PROD-002,Equipment,0.29,Amino Acids,S
+PROD-003,Protein,0.65,Minerals,S
+PROD-004,Minerals,1.05,Equipment,S
+PROD-005,Minerals,0.76,Minerals,S
+PROD-006,Minerals,0.27,Equipment,S
+PROD-007,Protein,2.12,Equipment,L
+PROD-008,Minerals,4.62,Amino Acids,L
+PROD-009,Vitamins,0.4,Protein,S
+PROD-010,Protein,0.42,Protein,L
+PROD-011,Equipment,2.01,Amino Acids,S
+PROD-012,Vitamins,0.39,Equipment,S
+PROD-013,Minerals,0.56,Vitamins,M
+PROD-014,Equipment,1.17,Protein,L
+PROD-015,Protein,3.77,Equipment,S
+PROD-016,Amino Acids,2.85,Amino Acids,S
+PROD-017,Equipment,0.64,Equipment,S
+PROD-018,Equipment,0.35,Amino Acids,L
+PROD-019,Equipment,0.57,Equipment,S
+PROD-020,Vitamins,0.51,Vitamins,S
+PROD-021,Protein,2.16,Minerals,S
+PROD-022,Minerals,0.5,Amino Acids,S
+PROD-023,Minerals,2.37,Equipment,M
+PROD-024,Protein,2.05,Vitamins,M
+PROD-025,Minerals,0.73,Protein,L
+PROD-026,Amino Acids,0.27,Amino Acids,S
+PROD-027,Amino Acids,0.59,Protein,S
+PROD-028,Protein,0.75,Vitamins,S
+PROD-029,Minerals,0.55,Vitamins,S
+PROD-030,Vitamins,1.94,Vitamins,S
+PROD-031,Equipment,0.81,Vitamins,M
+PROD-032,Vitamins,0.45,Minerals,S
+PROD-033,Protein,1.46,Minerals,S
+PROD-034,Minerals,2.56,Protein,S
+PROD-035,Equipment,0.51,Vitamins,S
+PROD-036,Protein,1.13,Vitamins,S
+PROD-037,Vitamins,0.45,Amino Acids,L
+PROD-038,Amino Acids,0.48,Equipment,S
+PROD-039,Vitamins,0.51,Vitamins,S
+PROD-040,Minerals,0.27,Protein,M
+PROD-041,Protein,2.23,Equipment,M
+PROD-042,Protein,3.85,Minerals,M
+PROD-043,Protein,4.69,Protein,S
+PROD-044,Amino Acids,0.97,Minerals,S
+PROD-045,Protein,0.62,Minerals,L
+PROD-046,Vitamins,0.28,Equipment,S
+PROD-047,Protein,1.92,Protein,S
+PROD-048,Minerals,3.34,Vitamins,M
+PROD-049,Vitamins,2.78,Amino Acids,M
+PROD-050,Equipment,0.44,Minerals,S

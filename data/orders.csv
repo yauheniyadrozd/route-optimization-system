@@ -1,0 +1,3 @@
+order_id,client_id,products,total_weight,urgency,time_window
+ORD-006,6,PROD-036,1.75,express,"('16:00', '21:00')"
+ORD-006,6,PROD-045,1.75,express,"('16:00', '21:00')"
